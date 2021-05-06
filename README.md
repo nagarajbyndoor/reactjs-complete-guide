@@ -1,2 +1,2 @@
-# studious-barnacle
+# react-guide
 react complete giude 
